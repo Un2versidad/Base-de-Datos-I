@@ -1,0 +1,53 @@
+# .gitignore - Base de Datos I
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Archivos de backup de editores
+*~
+*.bak
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Archivos de bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+*.sql~
+
+# Logs y archivos de depuración
+*.log
+debug.txt
+
+# Archivos de configuración específicos del usuario
+config.local.*
+.env.local
+
+# Archivos compilados y generados
+*.class
+*.exe
+*.out
+
+# Directorios de trabajo temporal
+/tmp/
+/temp/
+/workspace/
+
+# Archivos de entrega de estudiantes (para evitar commits accidentales)
+entregas/
+submissions/
+trabajos_entregados/
+
+# Archivos grandes de datasets (usar Git LFS si es necesario)
+*.csv.large
+datasets/*.csv
+data/large_files/
+
+# Archivos de respaldo automático
+*.backup
+*.old

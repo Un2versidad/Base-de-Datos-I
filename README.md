@@ -45,7 +45,7 @@ Base-de-Datos-I/
 
 ## 🤝 Contribuir
 
-Las contribuciones son bienvenidas. Por favor, lee las guías de contribución antes de enviar cambios.
+Las contribuciones son bienvenidas. Por favor, lee la [Guía de Contribución](CONTRIBUTING.md) antes de enviar cambios.
 
 ## 📄 Licencia
 
